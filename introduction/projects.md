@@ -4,4 +4,5 @@ DMD 100 has three projects, one in user experience and interface prototyping, in
 
 ## Submitting projects
 
-When project tasks are completed, they are submitted to [ELMSLN Studio](https://studio.aanda.psu.edu/dmd100/cle/app/projects). A class-wide space, called [Open Studio](https://studio.aanda.psu.edu/dmd100/cle/open-studio), displays ongoing work by your peers mimicking a physical art or design studio environment.
+When project tasks are completed, they are submitted to [ELMSLN Studio](https://studio.aanda.psu.edu/dmd100/cle/app/projects). This class-wide, virtual space displays your work along with that of your peers — mimicking a physical art or design studio environment.
+
