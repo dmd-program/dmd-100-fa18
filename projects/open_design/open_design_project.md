@@ -21,16 +21,16 @@ Originally conceived by the Institute Without Boundaries, the [Open Structures p
 ## Inspiration
 
 * Not entirely "open," but an excellent example of IKEA affect in product design: [Nintendo Labo](https://www.youtube.com/watch?v=P3Bd3HUMkyU)
-* https://makezine.com/blog/
-* http://www.instructables.com/
-* https://hackaday.com/
-* https://www.craftster.org/
-* http://www.getcrafty.com/
-* https://lifehacker.com/
+* [https://makezine.com/blog/](https://makezine.com/blog/)
+* [http://www.instructables.com/](http://www.instructables.com/)
+* [https://hackaday.com/](https://hackaday.com/)
+* [https://www.craftster.org/](https://www.craftster.org/)
+* [http://www.getcrafty.com/](http://www.getcrafty.com/)
+* [https://lifehacker.com/](https://lifehacker.com/)
 
 ## Previous student work
 
-"Magnection" by Daniel Bershefsky, 2017: [Download (10MB)](https://cdn.rawgit.com/dmd-program/work-examples/e6fd4cc2/dmd100-open-design-project/open-design-project-instructions.pdf)
+"Magnection" by Daniel Bershefsky, 2017: [Download \(10MB\)](https://cdn.rawgit.com/dmd-program/work-examples/e6fd4cc2/dmd100-open-design-project/open-design-project-instructions.pdf)
 
 ## Requirements:
 
@@ -39,8 +39,7 @@ Originally conceived by the Institute Without Boundaries, the [Open Structures p
 3. Materials should not cost more than $10.
 4. You should be able to assemble **three** distinctly different objects with the same kit, tools, and assembly processes.
 5. Everything needed for another person to follow your instructions must be included in the PDF. This includes templates.
+6. Do not include another person's copyrighted work in your project that is not appropriately licensed. Typically a Creative Commons License or a Public License will be needed.
 
 There are many examples of modular toys and kits in stores and on the Internet. If you decide to take direct inspiration and remix other works and ideas, you must ensure that there is a good balance between copying, transforming, and combining. There must be some novelty in your work, and it should be obvious that this project came from you.
-
-
 
