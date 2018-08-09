@@ -40,6 +40,7 @@ Originally conceived by the Institute Without Boundaries, the [Open Structures p
 4. You should be able to assemble **three** distinctly different objects with the same kit, tools, and assembly processes.
 5. Everything needed for another person to follow your instructions must be included in the PDF. This includes templates.
 6. Do not include another person's copyrighted work in your project that is not appropriately licensed. Typically a Creative Commons License will be needed. The project must be mostly your work, and should not rely on the design work of others.
+7. No weapons. We can define weapon as a device that uses projectiles powerful enough to cause harm to others. For example, a small-scale table-top device that shoots paper or foam projectiles as part of a game objective is fine. A handheld slingshot with the ability to propel objects at other people is a weapon.
 
 There are many examples of modular toys and kits in stores and on the Internet. If you decide to take direct inspiration and remix other works and ideas, you must ensure that there is a good balance between copying, transforming, and combining. There must be some novelty in your work, and it should be obvious that this project came from you.
 
