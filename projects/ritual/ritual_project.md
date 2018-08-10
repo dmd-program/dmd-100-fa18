@@ -45,7 +45,7 @@ See Wade Davis TED Talk on ritual and what makes us human. **\(19:08\)**
 
 * Develop an interactive mockup for an app that supports a ritual using prescribed software.
 * Keep the mockup "low fidelity". You may develop a logo and branding, but do not spend significant time on developing graphics. It should feel like a paper prototype.
-* Do not develop a calendar or todo app. Find creative and clever solutions to solve the project.
+* Avoid developing calendars and todo apps. Seek creative and clever solutions to solve the project.
 
 
 
