@@ -20,8 +20,8 @@ When you go through the research process, it may be tempting to design for a dir
 
 [Ritual Design Lab](http://www.ritualdesignlab.org/)
 
-See Wade Davis TED Talk on ritual and what makes us human. **(19:08)**  
-[https://www.ted.com/talks/wade_davis_on_the_worldwide_web_of_belief_and_ritual](https://www.ted.com/talks/wade_davis_on_the_worldwide_web_of_belief_and_ritual)
+See Wade Davis TED Talk on ritual and what makes us human. **\(19:08\)**  
+[https://www.ted.com/talks/wade\_davis\_on\_the\_worldwide\_web\_of\_belief\_and\_ritual](https://www.ted.com/talks/wade_davis_on_the_worldwide_web_of_belief_and_ritual)
 
 **Medium articles:**
 
@@ -30,7 +30,7 @@ See Wade Davis TED Talk on ritual and what makes us human. **(19:08)**
 
 ## Previous student work
 
-"Signly" by Daniel Bershefsky, 2017: [Download (10MB)](https://cdn.rawgit.com/dmd-program/work-examples/e6fd4cc2/dmd100-ritual-project/Ritual-Final-Prototype.zip)
+"Signly" by Daniel Bershefsky, 2017: [Download \(10MB\)](https://cdn.rawgit.com/dmd-program/work-examples/e6fd4cc2/dmd100-ritual-project/Ritual-Final-Prototype.zip)
 
 ## Materials and tools
 
@@ -40,6 +40,12 @@ See Wade Davis TED Talk on ritual and what makes us human. **(19:08)**
 * Pens, pencils, markers
 * Scissors
 * Post-It notes
+
+## Requirements
+
+* Develop an interactive mockup for an app that supports a ritual using prescribed software.
+* Keep the mockup "low fidelity". You may develop a logo and branding, but do not spend significant time on developing graphics. It should feel like a paper prototype.
+* Do not develop a calendar or todo app. Find creative and clever solutions to solve the project.
 
 
 
