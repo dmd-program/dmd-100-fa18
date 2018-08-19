@@ -19,6 +19,9 @@ Visit the [DMD Program Hub](http://dmd.psu.edu/) for more details.
 
 Michael Collins, Assistant Professor, Penn State School of Visual Arts
 
+**E-Mail:** msc227@psu.edu  
+**Twitter:** @\_mike\_collins
+
 **Instructional Design**
 
 Kate Miffitt, Assistant Director of Strategic Initiatives, Penn State College of Arts and Architecture

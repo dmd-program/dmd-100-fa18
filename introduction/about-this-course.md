@@ -41,9 +41,15 @@ Delivering pedagogy online has its own set of challenges. We'll be using  a mix 
 
 ### Book
 
-We will be reading _Design and Truth_ by Robert Grudin. You will need to purchase a copy of this book.
+We will be reading _Design and Truth_ by Robert Grudin. You will need to purchase a copy of this book. Students get [free Amazon Prime](https://www.amazon.com/gp/help/customer/display.html?nodeId=201133690) shipping.
 
-### Misc
+### Course author
 
-FYI, students get [free Amazon Prime](https://www.amazon.com/gp/help/customer/display.html?nodeId=201133690) shipping.
+![Michael Collins](/assets/collins-sm-bw@2x.jpg)
+
+Michael Collins
+**E-Mail:** msc227@psu.edu
+**Twitter:** @\_mike\_collins
+
+This course was written in Michael Collins joined the Penn State School of Visual Arts in 2012 where he teaches 3D animation, digital design, and digital fabrication. He is the Lead Faculty Coordinator for the Digital Multimedia Design program and is the primary course author for DMD 100. His research interests in open-source technology and sustainable design unite around online education, where he works to identify and solve contemporary issues facing online teaching and learning. Long-term project collaborations include the ELMS Learning Network project and the OERSchema project. Michael has previously worked on projects for the NFL, BMW Guggenheim Lab in NYC, worked as freelance product designer, and runs an online furniture design company. He has attended, presented at, and helped organize a variety of international design, technology, and education conferences and has been a long-time SIGGRAPH subcommittee volunteer.
 
