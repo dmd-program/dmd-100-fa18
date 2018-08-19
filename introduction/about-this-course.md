@@ -4,7 +4,7 @@ DMD 100: Digital Multimedia Design Foundations introduces design process and thi
 
 ## Course Structure
 
-DMD 100 is comprised of 5 lessons that introduce design topics, approaches, and considerations. Each lesson will span one to 4 weeks depending on the semester. Students will read assigned chapters and course pages, review supplemental media including podcasts and videos, and complete design exercises employing the double-diamond method, culminating in a lesson project and critique. Students are expected to practice the design process throughout the course, and therefore will be assigned several activities a week to provide opportunity for practice and iteration.
+DMD 100 is comprised of five lessons that introduce design topics, approaches, and considerations. Each lesson will span one to four weeks depending on the semester. Students will read assigned chapters and course pages, review supplemental media including podcasts and videos, and complete design exercises employing the double-diamond method, culminating in a lesson project and critique. Students are expected to practice the design process throughout the course, and therefore will be assigned several activities a week to provide opportunity for practice and iteration.
 
 ## Digital course technology
 
