@@ -12,7 +12,7 @@
   * [Writing Guidelines](introduction/writing_guidelines.md)
   * [Requirements](introduction/requirements.md)
 * [Lesson 1: What is design?](lessons/introduction-what-is-design.md)
-  * Topics
+  * [Topics](lessons/introduction-what-is-design/topics.md)
     * [What is design?](topics/what_is_design.md)
     * [Design thinking](topics/design_thinking.md)
     * [Systems thinking](topics/systems_thinking.md)
@@ -23,7 +23,7 @@
   * Activities
     * [Daily design journal](practice/daily_design_journal.md)
     * [Daily design journal: Report in](practice/daily-design-journal-report-in.md)
-  * Listening
+  * Listen
     * [Creative Mornings: Design Is Magical](listening/creative_mornings_design_is_magical.md)
     * [99 Percent Invisible: Lawn Order](listening/lawn_order.md)
   * Discussions
@@ -36,17 +36,17 @@
     * [Critical design](topics/critical_design.md)
     * [Visual design](topics/visual_design.md)
     * [Identity design](topics/identity-design.md)
-  * Watch
-    * [VOX: It's not you. Bad doors are everywhere.](lessons/introduction-visual-and-interaction-design/vox-its-not-you-bad-doors-are-everywhere.md)
-  * Listening
-    * [99 Percent Invisible: On Average](listening/99-percent-invisible-on-average.md)
-    * [99 Percent Invisible: 10,000 Years](listening/99_percent_invisible_10,000_years.md)
   * Readings
     * [Chapter 3. What Design and Truth Say About Each Other](reading-reflections/chapter_3_what_design_and_truth_say_about_each_other.md)
     * [Chapter 4. Design as Tragedy: The Rise and Fall of the Twin Towers](reading-reflections/chapter-4-design-as-tragedy-the-rise-and-fall-of-the-twin-towers.md)
     * [Chapter 5. Edsel's Law: How Bad Design Happens](reading-reflections/chapter_5_edsels_law_how_bad_design_happens.md)
     * [Chapter 6. Designs of Darkness](reading-reflections/chapter_6_designs_of_darkness.md)
     * [Chapter 7. Face to Face with Design](reading-reflections/chapter_7_face_to_face_with_design.md)
+  * [Watch](lessons/introduction-visual-and-interaction-design/watch.md)
+    * [VOX: It's not you. Bad doors are everywhere.](lessons/introduction-visual-and-interaction-design/vox-its-not-you-bad-doors-are-everywhere.md)
+  * Listen
+    * [99 Percent Invisible: On Average](listening/99-percent-invisible-on-average.md)
+    * [99 Percent Invisible: 10,000 Years](listening/99_percent_invisible_10,000_years.md)
   * Project
     * [Ritual Project Introduction](projects/ritual/ritual_project.md)
     * [Discover: Interview](projects/ritual/ritual_interview.md)
@@ -66,15 +66,15 @@
     * [Story development](topics/organizing_story_development.md)
     * [Character](topics/character.md)
     * [Narrative media](topics/narrative-media.md)
-  * Listening
-    * [99 Percent Invisible: Of Mice and Men](listening/99_percent_invisible_of_mice_and_men.md)
-  * Watching
-    * [Creative Mornings: Jordan Tannahill](watching/creative-mornings-jordan-tannahill.md)
-    * [Andrew Stanton: The clues to a great story](watching/andrew-stanton-the-clues-to-a-great-story.md)
   * Readings
     * [Chapter 8. Giorgio Vasari and the Permutations of Design](reading-reflections/chapter_8_giorgio_vasari_and_the_permutations_of_design.md)
     * [Chapter 9. The Lady in the Picture: Design and Revelation in Renaissance Art](reading-reflections/chapter_9_the_lady_in_the_picture_design_and_revelation_in_r.md)
     * [Chapter 10. In Jefferson's Footsteps: Modes of Self-Design](reading-reflections/chapter_10_in_jeffersons_footsteps_modes_of_self-design.md)
+  * Watch
+    * [Creative Mornings: Jordan Tannahill](watching/creative-mornings-jordan-tannahill.md)
+    * [Andrew Stanton: The clues to a great story](watching/andrew-stanton-the-clues-to-a-great-story.md)
+  * Listen
+    * [99 Percent Invisible: Of Mice and Men](listening/99_percent_invisible_of_mice_and_men.md)
   * Project
     * [Hypertext Narrative introduction](projects/narrative/hypertext-narrative_civic_imagination_project.md)
     * [Discover: Word-pairs](projects/narrative/discover_focus_words.md)
@@ -86,8 +86,6 @@
       * [Twine tutorial: Getting started](topics/twine-tutorial-getting-started.md)
     * [Develop: Feedback](projects/narrative/develop-feedback.md)
     * [Deliver: Hypertext narrative draft 2](projects/narrative/deliver-hypertext-narrative-draft-2.md)
-  * Discussions
-    * [End of lesson discussion](lessons/narrative/end_of_lesson_discussion.md)
 * [Lesson 4: Open design](lessons/introduction-open-design.md)
   * Topics
     * [Open Design](topics/open_design.md)
@@ -117,12 +115,12 @@
     * [Develop: Iterate](projects/open_design/develop-iterate.md)
     * [Deliver: Open Design](projects/open_design/deliver_open_design.md)
 * [Lesson 5: Self design](lessons/introduction-self-design.md)
-  * Listening
+  * Readings
+    * [Chapter 15. The Design of Private Knowledge](reading-reflections/chapter_15_the_design_of_private_knowledge.md)
+  * Listen
     * [Creative Mornings: Creativity and the Freedom to Fail](listening/creative_mornings_creativity_and_the_freedom_to_fa.md)
     * [Freakonomics: How to Become Great at Just About Anything](listening/freakonomics-how-to-become-great-at-just-about-anything.md)
   * Activities
     * [Pathway design](practice/pathway.md)
-  * Readings
-    * [Chapter 15. The Design of Private Knowledge](reading-reflections/chapter_15_the_design_of_private_knowledge.md)
 * [License](LICENSE.md)
 
