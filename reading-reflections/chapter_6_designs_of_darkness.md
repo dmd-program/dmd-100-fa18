@@ -9,8 +9,9 @@ In this chapter, Grudin makes a distinction between painting styles of Adolf Hit
 ## Writing guidelines
 
 1. Length: \(150-300 words\)
-2. Cite sources where applicable.
-3. Check for spelling and grammar.
-4. Avoid generalizing language. Choose clear and concise wording.
+2. Reference the chapter content whenever possible
+3. Cite sources where applicable.
+4. Check for spelling and grammar.
+5. Avoid generalizing language. Choose clear and concise wording.
 
 
