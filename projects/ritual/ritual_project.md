@@ -44,7 +44,7 @@ See Wade Davis TED Talk on ritual and what makes us human. **\(19:08\)**
 ## Requirements
 
 * Develop an interactive mockup for an app that supports a ritual using prescribed software.
-* Keep the mockup "low fidelity". You may develop a logo and branding, but do not spend significant time on developing graphics. It should feel like a paper prototype. No prior software skills are necessary, though you may already be familiar with software design tools. If you insist on using software like Photoshop, xD, Sketch, or Figma, keep the protoype as wireframes. Do not make aesthetic decisions like color and typography.
+* Keep the mockup "low fidelity". You may develop a logo and branding, but do not spend significant time on developing graphics. It should feel like a paper prototype. No prior software skills are necessary, though you may already be familiar with software design tools. If you insist on using software like Photoshop, xD, Sketch, or Figma, create only black and white wireframes. Do not make aesthetic decisions like color and typography for this project.
 * Avoid developing calendars and todo apps. Seek creative and clever solutions to solve the project.
 
 
