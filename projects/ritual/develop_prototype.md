@@ -68,13 +68,14 @@ Now that you have described the various aspects of the ritual, you will prototyp
 1. Create the interactive prototype using the prototyping instructions
 2. Download a ZIP archive of your prototype from InVision
 3. Copy the InVision project's  Public Share Link
-4. Write a design document according to the document requirements
+4. Write a prototype description according to the requirements
 
 ## Post work to the Studio
 
 Use the file format indicated in each step. You must obtain prior approval to deviate from these upload requirements. Please check that your work has uploaded properly.
 
 1. Upload the `.zip` archive file to Studio 
-2. Submit the URL of the Public Share Link to the InvisionApp Live Prototype to the Studio together with Prototype Description to the Studio.
+2. Submit the URL of the Public Share Link to the InvisionApp Live Prototype to the Studio
+3. Post a **prototype description** in the Studio submission text box.
 
 
